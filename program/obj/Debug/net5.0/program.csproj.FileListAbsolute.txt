@@ -1,0 +1,16 @@
+C:\Users\joach\Documents\KEA\Semester 2\System Integration\SI-Mandatory1\Mandatory 1 - redo\program\obj\Debug\net5.0\program.csproj.AssemblyReference.cache
+C:\Users\joach\Documents\KEA\Semester 2\System Integration\SI-Mandatory1\Mandatory 1 - redo\program\obj\Debug\net5.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joach\Documents\KEA\Semester 2\System Integration\SI-Mandatory1\Mandatory 1 - redo\program\obj\Debug\net5.0\program.AssemblyInfoInputs.cache
+C:\Users\joach\Documents\KEA\Semester 2\System Integration\SI-Mandatory1\Mandatory 1 - redo\program\obj\Debug\net5.0\program.AssemblyInfo.cs
+C:\Users\joach\Documents\KEA\Semester 2\System Integration\SI-Mandatory1\Mandatory 1 - redo\program\obj\Debug\net5.0\program.csproj.CoreCompileInputs.cache
+C:\Users\joach\Documents\KEA\Semester 2\System Integration\SI-Mandatory1\Mandatory 1 - redo\program\bin\Debug\net5.0\program.exe
+C:\Users\joach\Documents\KEA\Semester 2\System Integration\SI-Mandatory1\Mandatory 1 - redo\program\bin\Debug\net5.0\program.deps.json
+C:\Users\joach\Documents\KEA\Semester 2\System Integration\SI-Mandatory1\Mandatory 1 - redo\program\bin\Debug\net5.0\program.runtimeconfig.json
+C:\Users\joach\Documents\KEA\Semester 2\System Integration\SI-Mandatory1\Mandatory 1 - redo\program\bin\Debug\net5.0\program.runtimeconfig.dev.json
+C:\Users\joach\Documents\KEA\Semester 2\System Integration\SI-Mandatory1\Mandatory 1 - redo\program\bin\Debug\net5.0\program.dll
+C:\Users\joach\Documents\KEA\Semester 2\System Integration\SI-Mandatory1\Mandatory 1 - redo\program\bin\Debug\net5.0\ref\program.dll
+C:\Users\joach\Documents\KEA\Semester 2\System Integration\SI-Mandatory1\Mandatory 1 - redo\program\bin\Debug\net5.0\program.pdb
+C:\Users\joach\Documents\KEA\Semester 2\System Integration\SI-Mandatory1\Mandatory 1 - redo\program\obj\Debug\net5.0\program.dll
+C:\Users\joach\Documents\KEA\Semester 2\System Integration\SI-Mandatory1\Mandatory 1 - redo\program\obj\Debug\net5.0\ref\program.dll
+C:\Users\joach\Documents\KEA\Semester 2\System Integration\SI-Mandatory1\Mandatory 1 - redo\program\obj\Debug\net5.0\program.pdb
+C:\Users\joach\Documents\KEA\Semester 2\System Integration\SI-Mandatory1\Mandatory 1 - redo\program\obj\Debug\net5.0\program.genruntimeconfig.cache
